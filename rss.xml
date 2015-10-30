@@ -4,7 +4,7 @@
         <description><![CDATA[Breadboard]]></description>
         <link>https://thegrid.ai/breadboard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 00:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2015 00:44:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/breadboard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Arduino - Products]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.arduino.cc/en/ArduinoCertified/Products</link>
             <guid isPermaLink="false">2df4e35a-fcbe-4913-9421-0b221159ebda</guid>
             <pubDate>Fri, 30 Oct 2015 00:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is a Raspberry Pi?]]></title>
+            <description><![CDATA[<article><h1>What is a Raspberry Pi?</h1><p>The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It is a capable little device that enables people of all ages to explore computing, and to learn how to program in languages like Scratch and Python.</p><img src="https://www.raspberrypi.org/wp-content/uploads/2013/12/what-is-a-raspberry-pi-snap.png"></article>]]></description>
+            <link>https://www.raspberrypi.org/help/what-is-a-raspberry-pi/</link>
+            <guid isPermaLink="false">c385143f-7c52-4e06-aca2-ee86e12005ed</guid>
+            <pubDate>Fri, 30 Oct 2015 00:43:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Raspberry Pi - Teach, Learn, and Make with Raspberry Pi]]></title>
