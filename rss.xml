@@ -4,7 +4,7 @@
         <description><![CDATA[Breadboard]]></description>
         <link>https://thegrid.ai/breadboard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 00:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2015 00:43:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/breadboard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Arduino - Products]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.arduino.cc/en/ArduinoCertified/Products</link>
             <guid isPermaLink="false">2df4e35a-fcbe-4913-9421-0b221159ebda</guid>
             <pubDate>Fri, 30 Oct 2015 00:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raspberry Pi - Teach, Learn, and Make with Raspberry Pi]]></title>
+            <description><![CDATA[<article><h1>Raspberry Pi - Teach, Learn, and Make with Raspberry Pi</h1><p>The Raspberry Pi is a tiny and affordable computer that you can use to learn programming through fun, practical projects. Join the global Raspberry Pi Community.</p><img src="https://www.raspberrypi.org/wp-content/uploads/2013/12/Halloween_Header.png"></article>]]></description>
+            <link>https://www.raspberrypi.org/</link>
+            <guid isPermaLink="false">edb7d28d-9759-4d9f-8415-1e236c69950f</guid>
+            <pubDate>Fri, 30 Oct 2015 00:43:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arduino - Hacking]]></title>
