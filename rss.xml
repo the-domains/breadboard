@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Breadboard]]></title>
+        <description><![CDATA[Breadboard]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Oct 2015 00:34:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arduino - Hacking]]></title>
+            <description><![CDATA[<article><h1>Arduino - Hacking</h1><p>Arduino is designed to be easily extensible, being based on standard and powerful components. This section of the site includes information on how Arduino works and ways you can extend it. Writing an Example: writing clear Arduino examples that can be read by beginners and advanced users alike.</p></article>]]></description>
+            <link>https://www.arduino.cc/en/Hacking/HomePage</link>
+            <guid isPermaLink="false">782dea0a-4e1b-40a3-92c6-5574574e075c</guid>
+            <pubDate>Fri, 30 Oct 2015 00:34:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
