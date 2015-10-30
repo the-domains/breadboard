@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Breadboard]]></title>
         <description><![CDATA[Breadboard]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/breadboard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 00:34:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 30 Oct 2015 00:39:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/breadboard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arduino - Products]]></title>
+            <description><![CDATA[<article><h1>Arduino - Products</h1><p>It's the first board based on Intel® Quark™ SoC X10000, a 32-bit Intel Pentium® processor-class system on a chip (SoC), operating at speeds up to 400MHz and supporting the Yocto 1.4 Poky Linux distribution. It's designed to be hardware and software pin-compatible with Arduino shields designed for the Uno R3.</p><img src="https://www.arduino.cc/en/uploads/ArduinoCertified/Intel_Edison_Arduino_thumbb.jpg"></article>]]></description>
+            <link>https://www.arduino.cc/en/ArduinoCertified/Products</link>
+            <guid isPermaLink="false">2df4e35a-fcbe-4913-9421-0b221159ebda</guid>
+            <pubDate>Fri, 30 Oct 2015 00:39:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Arduino - Hacking]]></title>
             <description><![CDATA[<article><h1>Arduino - Hacking</h1><p>Arduino is designed to be easily extensible, being based on standard and powerful components. This section of the site includes information on how Arduino works and ways you can extend it. Writing an Example: writing clear Arduino examples that can be read by beginners and advanced users alike.</p></article>]]></description>
