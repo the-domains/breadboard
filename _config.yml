@@ -1,6 +1,6 @@
 name: Breadboard
 favicon: null
-layout_spectrum: 0.14264549524523318
+layout_spectrum: 0.42184
 typography_spectrum: 0.5160512579604983
 title: Breadboard
 cta:
@@ -24,6 +24,6 @@ color:
     - '#b7b9b8'
   brandStrength: 0.9375
   lightness: 0.8745163583662361
-  saturation: 0.35066466173157096
+  saturation: 0.5
   rhythmicContrast: 0.45978791848756373
 purpose: []
